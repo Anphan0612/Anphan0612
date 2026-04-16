@@ -25,7 +25,7 @@ Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,react,ts&perline=9" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,postgres,mysql,docker,git,github,react,ts&perline=9" alt="Tech stack" />
   </a>
 </p>
 
@@ -40,17 +40,20 @@ Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải 
 
 ### GitHub stats
 
+<!-- Streak: Heroku instance often returns "Error Fetching Resource" on GitHub; use demolab mirror. -->
+<!-- Stats: cache_seconds reduces Vercel rate-limit failures when GitHub re-fetches the README. -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anphan0612&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anphan0612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anphan0612&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anphan0612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anphan0612&theme=tokyonight&hide_border=true&fire=34d399&ring=34d399&currStreakNum=ffffff" alt="Streak stats" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=Anphan0612&theme=tokyonight&hide_border=true&fire=34D399&ring=34D399&currStreakNum=FFFFFF" alt="Streak stats" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anphan0612&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anphan0612&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&no-bg=true" alt="Trophies" />
 </p>
 
 ---
