@@ -16,7 +16,7 @@
 Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải quyết các bài toán về tối ưu hóa dữ liệu và xây dựng hệ thống phân tán (Distributed Systems). Hiện tại, tôi đang tập trung chuẩn bị tốt nhất cho kỳ thực tập sắp tới để học hỏi và đóng góp giá trị cho dự án thực tế.
 
 - 🏗️ Đang xây dựng hệ thống **Fast Food Microservices** (Java / Spring Boot).
-- 🧠 Theo đuổi **Clean Code**, **DDD** và **Performance Optimization**.
+- 🧠 Theo đuổi **Clean Code** và **Performance Optimization**.
 - 💬 Thích trao đổi về kiến trúc hệ thống và giải thuật.
 
 ---
