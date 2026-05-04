@@ -25,7 +25,7 @@ Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,postgres,mysql,docker,git,github,react,ts&perline=9" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,mysql,docker,git,github,react,ts&perline=9" alt="Tech stack" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@ Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
