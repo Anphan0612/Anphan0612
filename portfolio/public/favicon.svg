@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>An Phan</title>
+  <rect width="64" height="64" rx="12" fill="#0b0f10"/>
+  <path d="m10 44 9-25 9 25m-14-9h10m10 9V20l17 24V20" fill="none" stroke="#d1ff76" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
