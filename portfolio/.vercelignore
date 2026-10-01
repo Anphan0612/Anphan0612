@@ -1,0 +1,8 @@
+.env*
+node_modules
+.vercel
+.next
+.vinext
+dist
+.openai
+*.tsbuildinfo
