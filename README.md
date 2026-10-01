@@ -1,70 +1,78 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+An+%F0%9F%91%8B;Backend+%26+Full-stack;Clean+Architecture+%7C+Spring+Boot)](https://github.com/Anphan0612)
+  <a href="https://github.com/Anphan0612">
+    <img src="./assets/matrix-banner.svg" width="100%" alt="AN PHAN — Backend Development" />
+  </a>
 
-**Building resilient systems, one service at a time.**
+  <p>
+    <strong>Backend-focused developer · Java / Spring Boot · C# / .NET</strong><br />
+    <sub>Building practical backend features and supporting product workflows with clear, maintainable code.</sub>
+  </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Anphan0612?label=Followers&style=flat-square&logo=github)](https://github.com/Anphan0612)
-[![Profile views](https://komarev.com/ghpvc/?username=Anphan0612&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/Anphan0612)
+  <p>
+    <a href="mailto:quocanphan123@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/an-phan-quoc-4307782b5/">LinkedIn</a> ·
+    <a href="https://github.com/Anphan0612?tab=repositories">GitHub repositories</a>
+  </p>
 
 </div>
 
----
+<img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
-### About me
+## About
 
-Tôi là một sinh viên đam mê lập trình **Backend**. Tôi thích giải quyết các bài toán về tối ưu hóa dữ liệu và xây dựng hệ thống phân tán (Distributed Systems). Hiện tại, tôi đang tập trung chuẩn bị tốt nhất cho kỳ thực tập sắp tới để học hỏi và đóng góp giá trị cho dự án thực tế.
+I'm **Phan Quốc An**, an IT student at **Sai Gon University** in Ho Chi Minh City, Vietnam, expecting to graduate in 2027. I am seeking **Junior Backend Developer** roles and currently focus on Java / Spring Boot and C# / .NET.
 
-- 🏗️ Đang xây dựng hệ thống **Fast Food Microservices** (Java / Spring Boot).
-- 🧠 Theo đuổi **Clean Code** và **Performance Optimization**.
-- 💬 Thích trao đổi về kiến trúc hệ thống và giải thuật.
+My experience combines product development during my internship with collaborative backend projects. I care about readable code, dependable data workflows, and understanding how a feature behaves from API to user interface.
 
----
+## Product internship
 
-### Tech stack
+### HeraLabs · Software Engineer Intern
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,mysql,docker,git,github,react,ts&perline=9" alt="Tech stack" />
-  </a>
-</p>
+**June–August 2026**
 
+I contributed to an existing asset- and inventory-management product across .NET APIs and Angular workflows.
 
----
+#### C# / .NET
 
-### GitHub stats
+- Implemented inventory-import and import-history APIs with request validation, SQL Server staging through `SqlBulkCopy`, database transactions, and stored-procedure calls.
+- Added import-file storage/download and history filtering; standardized API response messages for Angular localization.
+- Centralized public URL generation for approval and recovery flows, and passed frontend URLs through notification handling.
 
-<!-- Streak: Heroku instance often returns "Error Fetching Resource" on GitHub; use demolab mirror. -->
-<!-- Stats: cache_seconds reduces Vercel rate-limit failures when GitHub re-fetches the README. -->
+#### Angular / TypeScript
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anphan0612&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anphan0612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
+- Built Excel import configuration, column mapping, preview, row validation, and error-file export using SheetJS; added the import-history UI.
+- Implemented Vietnamese/English localization with Transloco, including runtime language switching and shared component translations.
+- Integrated existing pagination and filtering into asset-management lists, and improved notification deep links and purchase-order terms dropdowns.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anphan0612&theme=tokyonight&hide_border=true&fire=34D399&ring=34D399&currStreakNum=FFFFFF" alt="Streak stats" width="90%" />
-</p>
+## Selected project contributions
 
-<!-- Trophies: github-profile-trophy.vercel.app often fails on GitHub image proxy ("Error Fetching Resource"). Open manually if you want the grid: https://github-profile-trophy.vercel.app/?username=Anphan0612 -->
+### [FastFood Delivery Microservices](https://github.com/foodfast-delivery-microservice/FastfoodDelivery-microservice-monorepo)
 
-<p align="center">
-  <a href="https://github.com/Anphan0612?tab=repositories"><img src="https://img.shields.io/badge/Repos-visit-34D399?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
+**Team project · Java / Spring Boot / RabbitMQ**
 
----
+**Live UI demo:** [Open FastFood demo](https://foodfast-delivery-microservice.github.io/FastfoodDelivery-microservice-monorepo/) · Sample data; API, login, and ordering are disabled.
 
-### Focus & goals
+**My contributions**
 
-- 📚 **Đang học**: Distributed transactions, message queues (Kafka / RabbitMQ), cloud-native.
-- 🎯 **Mục tiêu**: Môi trường thực tập chuyên nghiệp để rèn kỹ năng thực chiến.
+- Implemented email OTP verification with expiry and resend limits, plus password recovery with expiring reset tokens.
+- Implemented RabbitMQ-driven email notification flows; added JUnit/Mockito notification tests and fixed mocking/assertion issues in order and payment tests.
 
----
+### [Smart Personal Finance Management System](https://github.com/Anphan0612/Smart-Personal-Finance-Management-System)
 
-### Connect
+**Collaborative project · Spring Boot / FastAPI / MySQL / React Native**
 
-<p align="left">
-  <a href="mailto:quocanphan123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/an-phan-quoc-4307782b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+**Live UI demo:** [Open Smart Finance demo](https://anphan0612.github.io/Smart-Personal-Finance-Management-System/) · Sample data; API and write actions are disabled.
 
+**My contributions**
+
+- Updated backend dashboard logic to group weekly trends by weekday.
+- Added CPU fallback and inference error handling in Vietnamese transaction extraction; improved CPU/CUDA model loading with CPU fallback for receipt OCR text correction.
+
+## Tools used in these contributions
+
+- **Backend:** Java, Spring Boot, C#, .NET, Entity Framework Core
+- **Frontend:** Angular, TypeScript, Transloco, SheetJS
+- **Data & testing:** SQL Server, MySQL, RabbitMQ, JUnit, Mockito
+
+Thanks for visiting. Feel free to connect through [LinkedIn](https://www.linkedin.com/in/an-phan-quoc-4307782b5/) or explore my [repositories](https://github.com/Anphan0612?tab=repositories).
