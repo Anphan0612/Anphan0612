@@ -22,7 +22,7 @@
 
 ## About
 
-I'm **Phan Quốc An**, an IT student at **Sai Gon University** in Ho Chi Minh City, Vietnam, expecting to graduate in 2027. I am seeking **Junior Backend Developer** roles and currently focus on Java / Spring Boot and C# / .NET.
+I'm **Phan Quốc An**, an IT student at **Sai Gon University** in Ho Chi Minh City, Vietnam, expecting to graduate in 2027. I am seeking **Fresher Backend Developer** roles and currently focus on Java / Spring Boot and C# / .NET.
 
 My experience combines product development during my internship with collaborative backend projects. I care about readable code, dependable data workflows, and understanding how a feature behaves from API to user interface.
 

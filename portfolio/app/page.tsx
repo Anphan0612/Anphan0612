@@ -94,7 +94,7 @@ export default function Home() {
       <main id="main-content" tabIndex={-1}>
         <section className="hero shell" aria-labelledby="hero-title">
           <div className="hero-copy">
-            <p className="eyebrow">BACKEND DEVELOPER · 2026</p>
+            <p className="eyebrow">FRESHER BACKEND DEVELOPER · 2026</p>
             <h1 id="hero-title">
               Phan
               <span>Quốc An.</span>
@@ -141,7 +141,7 @@ export default function Home() {
             <p className="index-note">
               Based in Ho Chi Minh City
               <br />
-              Open to Junior Backend roles
+              Open to Fresher Backend Developer roles
             </p>
           </aside>
         </section>
@@ -273,8 +273,8 @@ export default function Home() {
               <h2 id="contact-title">Let’s build useful backend systems.</h2>
               <p className="contact-lede">
                 I am an IT student at Sai Gon University in Ho Chi Minh City,
-                Vietnam, expecting to graduate in 2027. I am looking for a Junior
-                Backend Developer opportunity where I can keep turning real
+                Vietnam, expecting to graduate in 2027. I am looking for a
+                Fresher Backend Developer opportunity where I can keep turning real
                 product requirements into dependable code.
               </p>
             </div>
